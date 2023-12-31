@@ -1,4 +1,4 @@
-# Employee_Data_Management
+# Employee_Data_Management Suite
 
 Certainly! Here's a template for a README file for your GitHub repository:
 
